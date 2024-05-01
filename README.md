@@ -12,8 +12,14 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
- 
+<p align ="left">
+  <B>Skills</B>
+</p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium,java,docker,html,maven,mongodb,mysql,js,jenkins,aws,github" />
+  </a>
+</p>
 
 
 <!---
