@@ -1,8 +1,4 @@
-<p>
-  <B>
-    Hi 👋, I’m Manoj Kumar
-</B>
-</p>
+- **Hi 👋, I’m Manoj Kumar**
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently working on the framework to automate mobile and web applications.
 - 😄 Pronouns: He/Him
