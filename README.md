@@ -8,12 +8,13 @@
   <a href="https://www.linkedin.com/in/manoj-kumar-5133422b9/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Manojdev27">
+   <a href="https://github.com/Manojdev27">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
+
+ 
+
 
 <!---
 Manojdev27/Manojdev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
