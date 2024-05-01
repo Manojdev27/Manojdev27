@@ -16,8 +16,7 @@
   <B>Skills:</B>
 </p>
  <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,java,docker,html,maven,mongodb,mysql,js,jenkins,aws,github" />
+    <img src="https://skillicons.dev/icons?i=selenium,java,docker,html,maven,mongodb,mysql,js,jenkins,aws,postman" />
   </a>
 </p>
 
