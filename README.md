@@ -1,4 +1,4 @@
-- **👋 Hi, I’m Manoj Kumar**
+**- ** Hi 👋, I’m Manoj Kumar****
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently working on the framework to automate mobile and web applications.
 - 📫 How to reach me manojkumardev27@gmail.com
