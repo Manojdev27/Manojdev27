@@ -4,9 +4,14 @@
 - 📫 How to reach me manojkumardev27@gmail.com
 - 😄 Pronouns: He/Him
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/manoj-kumar-5133422b9/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Manojdev27">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
