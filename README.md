@@ -1,9 +1,13 @@
-**Hi 👋, I’m Manoj Kumar**
+<p>
+  <B>
+    Hi 👋, I’m Manoj Kumar
+</B>
+</p>
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently working on the framework to automate mobile and web applications.
-- 📫 How to reach me manojkumardev27@gmail.com
 - 😄 Pronouns: He/Him
-
+- 📫 How to reach me manojkumardev27@gmail.com
+  
 <p align="left">
   <a href="https://www.linkedin.com/in/manoj-kumar-5133422b9/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -13,9 +17,9 @@
   </a>
 </p>
 <p align ="left">
-  <B>Skills</B>
+  <B>Skills:</B>
 </p>
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=selenium,java,docker,html,maven,mongodb,mysql,js,jenkins,aws,github" />
   </a>
