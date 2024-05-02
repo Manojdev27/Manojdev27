@@ -20,7 +20,7 @@
   </a>
 </p>
 
-[![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=Manojdev27)](https://github.com/anuraghazra/github-readme-stats)
+[![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=Manojdev27)](https://camo.githubusercontent.com/864f034346cd443043509baddbc4f8fef6c1aec1a54fcf3c8a93db0ea67e1378/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f6b6b617070732673686f775f69636f6e733d74727565)
 <!---
 Manojdev27/Manojdev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
