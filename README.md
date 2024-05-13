@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Manojdev27&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Manoj's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Manoj-stats" title="Manoj's GitHub Stats">
   </a> -->
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojdev27&theme=dark&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojdev27&theme=default&show_icons=true)
   
 <!---
 Manojdev27/Manojdev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
