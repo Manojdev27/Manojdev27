@@ -1,6 +1,6 @@
 - <p> <B>Hi 👋, I’m Manoj Kumar</B></p>
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently working on the framework to automate mobile and web applications.
+- 👀 I’m interested in Java Backend Development
+- 🌱 I’m currently working on the Java Backend Application Development.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me manojkumardev27@gmail.com
 
@@ -16,7 +16,7 @@
   <B>Skills:</B>
 </p>
  <p align="left">
-    <img src="https://skillicons.dev/icons?i=Java,Spring Boot,Microservices,docker,html,maven,mongodb,mysql,js,jenkins,aws,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,Microservices,docker,html,maven,mongodb,mysql,js,jenkins,aws,postman" />
   </a>
 </p>
 <!-- <p>
